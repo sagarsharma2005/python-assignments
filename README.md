@@ -23,6 +23,6 @@ README.md
 ```bash
 docker build -t python-version-app .
 
-## Screensho
+## Screenshot
 
-![alt text](<Screenshot 2026-06-14 114509-1.png>)
+![Output Screenshot](screenshot.png)
